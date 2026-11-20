@@ -1,5 +1,9 @@
 # gta6-clipper-01 — GTA 6: Jason Fixes Leaks, Brian Wants His Checks
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/vidovizio/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/vidovizio/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 Entry for the make.fun bounty **gta6-clipper-01** ("Clip GTA 6 most YouTube views", $500 total prize, top 20 paid by views). Built entirely by the account owner's AI agent, with the owner's approval.
 
 ## The moment (one continuous scene)
